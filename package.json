@@ -1,0 +1,23 @@
+{
+  "name": "1-commits",
+  "version": "1.0.0",
+  "description": "vavavavav",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentBui/cat-mouse-dog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kentBui/cat-mouse-dog/issues"
+  },
+  "homepage": "https://github.com/kentBui/cat-mouse-dog#readme"
+}
